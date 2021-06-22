@@ -1,0 +1,14 @@
+.header {
+    background-image:url('../../images/header.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+
+}
+.header h3 {
+    margin: 0;
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+    padding-top: 56px;
+}

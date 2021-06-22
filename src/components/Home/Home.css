@@ -1,0 +1,17 @@
+.home-bg {
+    background-color: #0E0A2A;
+}
+.header-image  {
+    background-image: url('../../images/header.jpg');
+    background-position: center;
+    background-size: cover;
+
+}
+.header-image h2 {
+    font-size: 40px;
+    color: #fff;
+    line-height: 70px;
+    padding: 70px 0;
+    text-align: center;
+    margin: 0;
+}
